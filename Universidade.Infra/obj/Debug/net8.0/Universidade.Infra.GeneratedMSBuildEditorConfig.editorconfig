@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Universidade.Infra
-build_property.ProjectDir = /home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/
+build_property.ProjectDir = C:\Users\andrei.mendes\Documents\DEV\UniversidadeDDD\Universidade\Universidade.Infra\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

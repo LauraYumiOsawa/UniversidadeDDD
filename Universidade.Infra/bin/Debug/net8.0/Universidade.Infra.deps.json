@@ -655,7 +655,10 @@
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0-preview.3.efcore.9.0.0"
         },
         "runtime": {
-          "Universidade.Domain.dll": {}
+          "Universidade.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E401-10A1-462C-833D-283E69B78777}|APIUni\\APIUni.csproj|c:\\users\\andrei.mendes\\documents\\dev\\universidadeddd\\universidade\\apiuni\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E401-10A1-462C-833D-283E69B78777}|APIUni\\APIUni.csproj|solutionrelative:apiuni\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E401-10A1-462C-833D-283E69B78777}|APIUni\\APIUni.csproj|c:\\users\\andrei.mendes\\documents\\dev\\universidadeddd\\universidade\\apiuni\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E401-10A1-462C-833D-283E69B78777}|APIUni\\APIUni.csproj|solutionrelative:apiuni\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E401-10A1-462C-833D-283E69B78777}|APIUni\\APIUni.csproj|c:\\users\\andrei.mendes\\documents\\dev\\universidadeddd\\universidade\\apiuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E401-10A1-462C-833D-283E69B78777}|APIUni\\APIUni.csproj|solutionrelative:apiuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1E1AD7-B76E-4B5E-BAC4-492C4F5C4889}|Universidade.Infra\\Universidade.Infra.csproj|c:\\users\\andrei.mendes\\documents\\dev\\universidadeddd\\universidade\\universidade.infra\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1E1AD7-B76E-4B5E-BAC4-492C4F5C4889}|Universidade.Infra\\Universidade.Infra.csproj|solutionrelative:universidade.infra\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B363567A-8432-4717-814A-0856DB62122A}|Universidade.Domain\\Universidade.Domain.csproj|c:\\users\\andrei.mendes\\documents\\dev\\universidadeddd\\universidade\\universidade.domain\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B363567A-8432-4717-814A-0856DB62122A}|Universidade.Domain\\Universidade.Domain.csproj|solutionrelative:universidade.domain\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\APIUni\\Program.cs",
+              "RelativeDocumentMoniker": "APIUni\\Program.cs",
+              "ToolTip": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\APIUni\\Program.cs",
+              "RelativeToolTip": "APIUni\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:45:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\APIUni\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "APIUni\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\APIUni\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "APIUni\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:40:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Domain\\Professor.cs",
+              "RelativeDocumentMoniker": "Universidade.Domain\\Professor.cs",
+              "ToolTip": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Domain\\Professor.cs",
+              "RelativeToolTip": "Universidade.Domain\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:44:26.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Infra\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Universidade.Infra\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Infra\\AppDbContext.cs",
+              "RelativeToolTip": "Universidade.Infra\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:42:25.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\APIUni\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "APIUni\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\APIUni\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "APIUni\\Controllers\\ProfessorController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:40:49.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

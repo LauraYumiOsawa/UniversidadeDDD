@@ -5217,35 +5217,45 @@
     ]
   },
   "packageFolders": {
-    "/home/losawa/.nuget/packages/": {}
+    "C:\\Users\\andrei.mendes\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Presentation/Universidade.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Presentation\\Universidade.Presentation.csproj",
       "projectName": "Universidade.Presentation",
-      "projectPath": "/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Presentation/Universidade.Presentation.csproj",
-      "packagesPath": "/home/losawa/.nuget/packages/",
-      "outputPath": "/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Presentation/obj/",
+      "projectPath": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Presentation\\Universidade.Presentation.csproj",
+      "packagesPath": "C:\\Users\\andrei.mendes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Presentation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/home/losawa/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\andrei.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/Universidade.Domain.csproj": {
-              "projectPath": "/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/Universidade.Domain.csproj"
+            "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Domain\\Universidade.Domain.csproj": {
+              "projectPath": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Domain\\Universidade.Domain.csproj"
             },
-            "/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/Universidade.Infra.csproj": {
-              "projectPath": "/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/Universidade.Infra.csproj"
+            "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Infra\\Universidade.Infra.csproj": {
+              "projectPath": "C:\\Users\\andrei.mendes\\Documents\\DEV\\UniversidadeDDD\\Universidade\\Universidade.Infra\\Universidade.Infra.csproj"
             }
           }
         }
@@ -5254,6 +5264,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5310,7 +5325,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
