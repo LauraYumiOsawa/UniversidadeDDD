@@ -1,0 +1,17 @@
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/bin/Debug/net8.0/Universidade.Infra.deps.json
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/bin/Debug/net8.0/Universidade.Infra.runtimeconfig.json
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/bin/Debug/net8.0/Universidade.Infra.dll
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/bin/Debug/net8.0/Universidade.Infra.pdb
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/bin/Debug/net8.0/Universidade.Domain.dll
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/bin/Debug/net8.0/Universidade.Domain.pdb
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.csproj.AssemblyReference.cache
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.AssemblyInfoInputs.cache
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.AssemblyInfo.cs
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.csproj.CoreCompileInputs.cache
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.csproj.CopyComplete
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.dll
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/refint/Universidade.Infra.dll
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.pdb
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/Universidade.Infra.genruntimeconfig.cache
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Infra/obj/Debug/net8.0/ref/Universidade.Infra.dll

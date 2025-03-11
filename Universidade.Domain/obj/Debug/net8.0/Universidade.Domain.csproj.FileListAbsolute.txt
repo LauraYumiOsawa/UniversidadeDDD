@@ -1,0 +1,14 @@
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/bin/Debug/net8.0/Universidade.Domain.deps.json
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/bin/Debug/net8.0/Universidade.Domain.runtimeconfig.json
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/bin/Debug/net8.0/Universidade.Domain.dll
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/bin/Debug/net8.0/Universidade.Domain.pdb
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/Universidade.Domain.csproj.AssemblyReference.cache
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/Universidade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/Universidade.Domain.AssemblyInfoInputs.cache
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/Universidade.Domain.AssemblyInfo.cs
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/Universidade.Domain.csproj.CoreCompileInputs.cache
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/Universidade.Domain.dll
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/refint/Universidade.Domain.dll
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/Universidade.Domain.pdb
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/Universidade.Domain.genruntimeconfig.cache
+/home/losawa/Músicas/Class/FullStack/2/Universidade/Universidade.Domain/obj/Debug/net8.0/ref/Universidade.Domain.dll
