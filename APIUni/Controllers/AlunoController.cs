@@ -36,13 +36,13 @@ public class AlunosController : ControllerBase
     {
         if (aluno == null || id != aluno.Id)
         {
-            return BadRequest("No tienes cararajo");
+            return BadRequest("Dados não batem");
         }
         
         var alunoExistente = await _context.Alunos.FindAsync(id);
         if (alunoExistente == null)
         {
-            return NotFound($"U INCOPETENTE, ALUNO NOT FOUND - {id}");
+            return NotFound($"Aluno não encontrado - {id}");
         }
         
         alunoExistente.Name = aluno.Name;
@@ -62,7 +62,7 @@ public class AlunosController : ControllerBase
         var aluno = await _context.Alunos.FindAsync(id);
         if (aluno == null )
         {
-            return BadRequest("No tienes cararajo");
+            return BadRequest("No tienes carara**(forma da laura dizer Aluno não encontrado)");
         }
         
         _context.Alunos.Remove(aluno);

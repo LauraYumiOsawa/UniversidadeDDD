@@ -36,13 +36,13 @@ public class ProfessoresController : ControllerBase
     {
         if (professor == null || id != professor.Id)
         {
-            return BadRequest("No tienes cararajo");
+            return BadRequest("Dados não batem!");
         }
 
         var professorExistente = await _context.Professores.FindAsync(id);
         if (professorExistente == null)
         {
-            return NotFound($"U INCOPETENTE, ALUNO NOT FOUND - {id}");
+            return NotFound($"Professor não encontrado - {id}");
         }
 
         professorExistente.Name = professor.Name;
@@ -60,7 +60,7 @@ public class ProfessoresController : ControllerBase
         var professor = await _context.Professores.FindAsync(id);
         if (professor == null)
         {
-            return BadRequest("No tienes cararajo");
+            return BadRequest("No tienes carara**(forma da laura dizer Professor não encontrado)");
         }
 
         _context.Professores.Remove(professor);
